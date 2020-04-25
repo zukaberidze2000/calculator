@@ -1,7 +1,8 @@
-# include <iostream>
+#include <iostream>
+
 using namespace std;
 
-int main()   // this is my calculator vaxo
+int main() 
 {
     char op;
     float num1, num2;
@@ -31,9 +32,7 @@ int main()   // this is my calculator vaxo
         break;
 
     default:
-        cout << "Error! operator is not correct";
+        cout << "Error! operator is not correct!";
         break;
     }
-
-    return 0;
 }
