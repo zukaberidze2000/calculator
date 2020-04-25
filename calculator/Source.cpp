@@ -1,7 +1,7 @@
 # include <iostream>
 using namespace std;
 
-int main()   // this is my kalkulator vaxo
+int main()   // this is my calculator vaxo
 {
     char op;
     float num1, num2;
